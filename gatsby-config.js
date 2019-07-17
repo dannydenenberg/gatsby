@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Jon Kuperman`,
-    author: `Jon Kuperman`,
-    description: `The personal blog and website of Jon Kuperman`,
+    title: `Daniel Denenberg`,
+    author: `Daniel Denenberg`,
+    description: `The personal blog and website of Daniel Denenberg`,
     siteUrl: `https://jonkuperman.com`,
     social: {
       twitter: `jkup`
@@ -58,7 +58,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Jon Kuperman's Personal Blog`,
+        name: `Daniel Denenberg's Personal Blog`,
         short_name: `JonKuperman`,
         start_url: `/`,
         background_color: `#ffffff`,

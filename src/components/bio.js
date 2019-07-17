@@ -31,8 +31,8 @@ function Bio() {
               }}
             />
             <p>
-              My name is Jon Kuperman. I'm a developer, teacher and open source
-              evangelist.{" "}
+              My name is Daniel Denenberg. I'm a developer, teacher and open
+              source evangelist.{" "}
               <a href={`https://twitter.com/jkup`}>
                 You should follow me on Twitter.
               </a>
